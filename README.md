@@ -1,4 +1,4 @@
-# 2017-10-04
+# 2017-10-02
 
 ## Life
 
@@ -6,9 +6,9 @@
 
 ## School
 
-- [ ] Report of cs.1001
+- [x] Report of cs.1001
 - [ ] Report of cs.1002
 
 ## Misc
 
-- [ ] Buy present for A's birthday
+- [x] Buy present for A's birthday
