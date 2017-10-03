@@ -1,17 +1,13 @@
-# 2017-10-01
-
+# 2017-10-04
 
 ## Life
 
 - [ ] Fix light in kitchien
 
-
 ## School
 
 - [ ] Report of cs.1001
 - [ ] Report of cs.1002
-- [x] Report of cs.1003
-
 
 ## Misc
 
