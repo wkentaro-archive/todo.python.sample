@@ -2,7 +2,7 @@
 
 ## Life
 
-- [ ] Fix light in kitchien
+- [x] Fix light in kitchien
 
 ## School
 
