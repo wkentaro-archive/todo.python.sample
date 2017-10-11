@@ -1,1 +1,24 @@
-- '2017-10-04': []
+- '2017-10-01':
+  - detail:
+    - '  **Feedbacks**'
+    - '  - General idea of presented method is interesting.'
+    - '  - Need comparison with existing methods.'
+    done: true
+    section: School
+    title: Report of cs.1003
+- '2017-10-02':
+  - detail: []
+    done: true
+    section: School
+    title: Report of cs.1001
+  - detail: []
+    done: true
+    section: Misc
+    title: Buy present for A's birthday
+- '2017-10-03':
+  - detail:
+    - '  - Price: $9.8'
+    - '  - Where?: C Store'
+    done: true
+    section: Life
+    title: Fix light in kitchien
